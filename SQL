@@ -1,0 +1,182 @@
+
+--1. How many rows are in the FactInternetSales table?--
+SELECT COUNT (*) AS no_of_row
+FROM FactInternetSales
+
+--2. What is the total SalesAmount across all internet sales?
+SELECT SUM (SalesAmount) AS Total_SalesAmount
+FROM FactInternetSales
+
+--3. What is the average OrderQuantity per line item in FactInternetSales?
+SELECT AVG (OrderQuantity) AS Average_OrderQuantity
+FROM FactInternetSales
+
+--4. Find the maximum and minimum UnitPrice in FactInternetSales.
+SELECT Max (UnitPrice) AS Max_UnitPrice, Min (UnitPrice) AS Min_UnitPrice
+FROM FactInternetSales
+
+/*5. How many distinct customers (CustomerKey) have placed at least one 
+internet order?*/
+SELECT COUNT (DISTINCT CustomerKey) AS No_of_CustomerKey
+FROM FactInternetSales
+
+--6. Count the total number of products in DimProduct.
+SELECT COUNT (*) AS total_number_of_products
+FROM DimProduct
+
+/*7. What is the total SalesAmount grouped by SalesTerritoryKey in 
+FactInternetSales?*/
+SELECT SalesTerritoryKey, SUM (SalesAmount) AS Total_SalesAmount
+FROM FactInternetSales
+GROUP BY SalesTerritoryKey
+ORDER BY SalesTerritoryKey ASC
+
+/*8. How many orders were placed each year? Use OrderDateKey to extract 
+the year (first 4 characters).*/
+SELECT LEFT(OrderDateKey,4) AS Order_Year, COUNT(*) AS No_of_Orders
+FROM FactInternetSales
+GROUP BY LEFT(OrderDateKey,4)
+ORDER BY LEFT(OrderDateKey,4)
+
+/*9. List each internet sale's SalesOrderNumber alongside the matching
+customer's FirstName and LastName from DimCustomer.*/
+SELECT FI.SalesOrderNumber, DC.FirstName, DC.LastName
+FROM FactInternetSales AS FI
+INNER JOIN DimCustomer AS DC
+ON FI.CustomerKey = DC.CustomerKey
+
+/*10.Join FactInternetSales with DimProduct and return the EnglishProductName 
+and SalesAmount for every sale.*/
+SELECT EnglishProductName, SalesAmount
+FROM FactInternetSales AS FIS
+INNER JOIN DimProduct AS DP
+ON FIS.ProductKey = DP.ProductKey
+
+/*11. Show all sales territories from DimSalesTerritory, including those with no matching
+sales in FactInternetSales.*/
+SELECT *
+FROM DimSalesTerritory AS DST
+LEFT JOIN FactInternetSales AS FIS
+ON DST.SalesTerritoryKey = FIS.SalesTerritoryKey
+
+/*12. List every product in DimProduct along with its subcategory name from
+DimProductSubcategory. Include products with no subcategory.*/
+SELECT *
+FROM DimProduct AS DP
+LEFT JOIN DimProductSubcategory AS DPS
+ON DP.ProductSubcategoryKey = DPS.ProductSubcategoryKey
+
+/*13. For each product, show its name and total SalesAmount from FactInternetSales.
+Sort by total sales descending.*/
+SELECT EnglishProductName, SUM(SalesAmount) AS Total_SalesAmount
+FROM FactInternetSales AS FIS
+INNER JOIN DimProduct AS DP
+ON FIS.ProductKey = DP.ProductKey
+GROUP BY EnglishProductName
+ORDER BY Total_SalesAmount DESC
+
+/*14. Show each customer's full name and the total number of orders they have 
+placed.*/
+SELECT CONCAT(FirstName,' ',MiddleName,' ',LastName), COUNT (*)
+FROM DimCustomer
+GROUP BY CONCAT(FirstName,' ',MiddleName,' ',LastName)
+order by COUNT (*) desc
+
+SELECT 
+    CONCAT(DC.FirstName, ' ', DC.MiddleName, ' ', DC.LastName) AS FullName,
+    COUNT(FIS.SalesOrderNumber) AS Total_Orders
+FROM DimCustomer AS DC
+INNER JOIN FactInternetSales AS FIS
+    ON DC.CustomerKey = FIS.CustomerKey
+GROUP BY 
+    DC.FirstName, DC.MiddleName, DC.LastName
+ORDER BY 
+    Total_Orders DESC;
+
+/*15. List each sales territory region with its total SalesAmount.*/
+SELECT SalesTerritoryRegion, SUM(SalesAmount) AS  Sales_Amount
+FROM DimSalesTerritory AS DST
+JOIN FactInternetSales AS FIS
+ON DST.SalesTerritoryKey = FIS.SalesTerritoryKey
+GROUP BY SalesTerritoryRegion
+
+/*16. Find the top 5 products by total SalesAmount in FactInternetSales.*/
+SELECT TOP 5 EnglishProductName, SUM(SalesAmount) AS Total_SalesAmount
+FROM FactInternetSales AS FIS
+INNER JOIN DimProduct AS DP
+ON FIS.ProductKey = DP.ProductKey
+GROUP BY EnglishProductName
+ORDER BY Total_SalesAmount DESC
+
+/*17. Find customers who have spent more than $10,000 in total. Return
+their CustomerKey and total spend.*/
+SELECT DC.CustomerKey, SUM(FIS.OrderQuantity * FIS.UnitPrice) AS Total_Spend
+FROM DimCustomer AS DC
+INNER JOIN FactInternetSales AS FIS
+ON DC.CustomerKey = FIS.CustomerKey
+GROUP BY DC.CustomerKey
+HAVING SUM(FIS.OrderQuantity * FIS.UnitPrice) > 10000
+
+/*18.Calculate the average SalesAmount per product, but only include products with
+more than 100 sales transactions.*/
+SELECT 
+    ProductKey,
+    AVG(SalesAmount) AS Avg_SalesAmount
+FROM FactInternetSales
+GROUP BY 
+    ProductKey
+HAVING 
+    COUNT(*) > 100;
+
+/*19. How many customers placed exactly 1 order vs 2 orders vs 3 or more orders? 
+Bucket and count them*/
+
+
+/*20. Return the monthly total SalesAmount for the year 2013 using DimDate.*/
+SELECT 
+    DD.CalendarYear,
+    DD.MonthNumberOfYear,
+    DD.EnglishMonthName,
+    SUM(FIS.SalesAmount) AS Total_Sales
+FROM FactInternetSales FIS
+INNER JOIN DimDate DD
+    ON FIS.OrderDateKey = DD.DateKey
+WHERE 
+    DD.CalendarYear = 2013
+GROUP BY 
+    DD.CalendarYear,
+    DD.MonthNumberOfYear,
+    DD.EnglishMonthName
+ORDER BY 
+    DD.MonthNumberOfYear;
+
+SELECT *
+FROM FactInternetSales
+SELECT *
+FROM DimDate
+/*21. List each product's name, subcategory, and category by
+joining DimProduct, DimProductSubcategory, and DimProductCategory.*/
+SELECT 
+    DP.EnglishProductName AS ProductName,
+    DPS.EnglishProductSubcategoryName AS Subcategory,
+    DPC.EnglishProductCategoryName AS Category
+FROM DimProduct DP
+LEFT JOIN DimProductSubcategory DPS
+    ON DP.ProductSubcategoryKey = DPS.ProductSubcategoryKey
+LEFT JOIN DimProductCategory DPC
+    ON DPS.ProductCategoryKey = DPC.ProductCategoryKey
+ORDER BY 
+    Category, Subcategory, ProductName;
+
+/*22. Find all customers who have never placed an internet order.
+Use DimCustomer and FactInternetSales.*/
+SELECT 
+    DC.CustomerKey,
+    DC.FirstName,
+    DC.LastName
+FROM DimCustomer DC
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM FactInternetSales FIS
+    WHERE FIS.CustomerKey = DC.CustomerKey
+);
