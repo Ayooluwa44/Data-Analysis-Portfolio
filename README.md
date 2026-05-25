@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - Excel/Google Sheet
 - Power BI
   - Sales retail outlet https://drive.google.com/file/d/1BU41wOtdHT_6daZqyea0T6kFXbQnvHrz/view?usp=sharing
-
+  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f3d6c61ac6bdf059b9ea8c143c4947630bb03afb/Sales%20Retail%20Outlet.pbix
 
 
 - SQL
