@@ -16,6 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - Power BI
   - Sales retail outlet https://drive.google.com/file/d/1BU41wOtdHT_6daZqyea0T6kFXbQnvHrz/view?usp=sharing
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f3d6c61ac6bdf059b9ea8c143c4947630bb03afb/Sales%20Retail%20Outlet.pbix
+  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/fe78bddd95be5afb8fc91aef4bd0dd8c2db673e0/DataDNA%20Dataset%20Challenge%20-%20Animal%20Shelter%20Operations%20-%20December%202025.pbix
 
 
 - SQL
