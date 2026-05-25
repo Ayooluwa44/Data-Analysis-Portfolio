@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Content
 - Excel/Google Sheet
 - Power BI
-  - Sales retail outlet 
+  - Sales retail outlet https://drive.google.com/file/d/1BU41wOtdHT_6daZqyea0T6kFXbQnvHrz/view?usp=sharing
 
 
 
