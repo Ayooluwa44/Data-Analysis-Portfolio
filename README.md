@@ -1,14 +1,10 @@
 # Data-Analyst-Portfolio
 # About
-I am Ayobami Agbeyo, a graduate of Federal University of Technology, Akure (FUTA). Results-driven Data Analyst 
-with demonstrated experience converting complex, multi-source datasets into actionable business intelligence that 
-drives measurable operational improvements. Proficient in SQL (query writing, optimization, joins), Power BI 
-(advanced DAX, data modelling, interactive dashboards), Power Query (ETL, data transformation, automation), and 
-Microsoft Excel. Skilled at designing KPI frameworks, cleaning and validating large datasets, identifying trends, and 
-communicating findings clearly to non-technical stakeholders. Experienced across agri-business, e-commerce, 
-finance, HR, and sales analytics domains.
+I am Ayobami Agbeyo, a graduate of Federal University of Technology Akure (FUTA). I am a results-driven Data Analyst with demonstrated experience in converting complex, multi-source datasets into actionable business intelligence that drives measurable operational improvements. I am proficient in SQL (query writing, optimization, and joins), Power BI (advanced DAX, data modelling, and interactive dashboards), Power Query (ETL, data transformation, and automation), and Microsoft Excel.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I am skilled in designing KPI frameworks, cleaning and validating large datasets, identifying trends, and communicating insights clearly to non-technical stakeholders. I also have experience across agri-business, e-commerce, finance, HR, and sales analytics domains.
+
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always seeking opportunities to expand my knowledge and skills. Whether working independently or as part of a team, I am driven by the excitement of discovering meaningful insights and the satisfaction of using data to solve complex problems.
 
 My CV in [AGBEYO AYOBAMI RESUME.pdf](https://github.com/user-attachments/files/28226308/AGBEYO.AYOBAMI.RESUME.pdf)
 
