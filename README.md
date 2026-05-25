@@ -22,4 +22,5 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 - SQL
-  - SQL Project.sql 
+  - SQL Project.sql
+  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
