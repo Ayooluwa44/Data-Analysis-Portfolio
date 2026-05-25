@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-# About
+## About
 I am Ayobami Agbeyo, a graduate of Federal University of Technology Akure (FUTA). I am a results-driven Data Analyst with demonstrated experience in converting complex, multi-source datasets into actionable business intelligence that drives measurable operational improvements. I am proficient in SQL (query writing, optimization, and joins), Power BI (advanced DAX, data modelling, and interactive dashboards), Power Query (ETL, data transformation, and automation), and Microsoft Excel.
 
 I am skilled in designing KPI frameworks, cleaning and validating large datasets, identifying trends, and communicating insights clearly to non-technical stakeholders. I also have experience across agri-business, e-commerce, finance, HR, and sales analytics domains.
