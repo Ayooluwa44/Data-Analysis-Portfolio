@@ -20,3 +20,26 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - SQL
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
+
+# POWER BI - PROJECT
+The project focused on analyzing retail sales performance, translating raw data into actionable business insights for decision-making.
+Key dashboard areas included:
+🔹 Executive KPIs — Sales, Profit, Orders, and Trends
+<img width="815" height="501" alt="Screenshot 2026-05-07 214112" src="https://github.com/user-attachments/assets/750bb1c3-bd6b-4306-b95b-627a78dc23ac" />
+
+🔹 Profitability Analysis — Margin insights across sub-categories, segments, and shipping modes
+<img width="819" height="504" alt="Screenshot 2026-05-07 214147" src="https://github.com/user-attachments/assets/edf36ccb-18a3-4a47-ae22-f81ac57aae9a" />
+
+🔹 Customer Analytics — Repeat customer behavior, segmentation, and purchasing patterns
+<img width="822" height="497" alt="Screenshot 2026-05-07 214225" src="https://github.com/user-attachments/assets/c155a446-9d48-42f4-ac51-120fa57022fb" />
+
+🔹 Regional Performance — State and city-level performance with regional manager comparisons
+<img width="817" height="491" alt="Screenshot 2026-05-07 214312" src="https://github.com/user-attachments/assets/d938a68c-2ce9-4ab2-9249-fa33a3b95b5b" />
+
+Key highlights from the project:
+✅ Built a structured data model supporting multi-page reporting
+✅ Developed RFM-ready customer metrics (First Order, Last Order, Recency)
+✅ Analyzed discount impact on profitability at customer level
+✅ Designed dashboards to support business decision-making, not just reporting
+
+Tools used: Power BI | DAX | Data Modeling | Excel
