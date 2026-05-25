@@ -53,13 +53,14 @@ I stated by collecting and cleaning the messy data with Power Query by applying 
 📦 Total Quantity sold
 📈 Total Profit earned
 🧾 Total Orders placed
+Follow the link to download the file: https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f9fe2832195e98811238c045b9b3edfbfbcf29f9/Dynamic%20Retail%20Oulet.xlsx
 
 All metrics update dynamically without any manual recalculation.
 <img width="1365" height="667" alt="Screenshot 2026-05-10 092913" src="https://github.com/user-attachments/assets/4ac0e238-57a2-414b-bebb-ca9c6123fdf0" />
 
-##🎯 Business Problem
+## Business Problem
 Retail operations managers need fast, accurate summaries of performance across regions and product lines, without digging through thousands of rows of transaction data.
 This dashboard answers the question: "How is our Furniture/Technology/Office Supplies division performing in Texas right now, and who is leading it?"
 
-##🧰 Tools & Techniques Used
+## Tools & Techniques Used
 Microsoft Excel | Power Query
