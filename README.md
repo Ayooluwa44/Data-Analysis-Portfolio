@@ -19,8 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Sales retail outlet https://drive.google.com/file/d/1BU41wOtdHT_6daZqyea0T6kFXbQnvHrz/view?usp=sharing
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f3d6c61ac6bdf059b9ea8c143c4947630bb03afb/Sales%20Retail%20Outlet.pbix
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/fe78bddd95be5afb8fc91aef4bd0dd8c2db673e0/DataDNA%20Dataset%20Challenge%20-%20Animal%20Shelter%20Operations%20-%20December%202025.pbix
- 
-
+  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/6a72c3ae83165193b82328992c3198314469d106/Pharmacy%20Sales%20%26%20Profitability%20Analytics%20Data%20Challenge%20(1).pbix
 
 - SQL
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
