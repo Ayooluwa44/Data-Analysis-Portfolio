@@ -26,6 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/3dae322a2713709be822a497bdaeed2b7732ce76/SQL%20Bella%20Vita%20Pizza.sql
 
 # POWER BI - PROJECT
+## Sales Report
 The project focused on analyzing retail sales performance, translating raw data into actionable business insights for decision-making.
 Key dashboard areas included:
   🔹 Executive KPIs — Sales, Profit, Orders, and Trends
@@ -96,10 +97,12 @@ This page highlights geographic revenue concentration and identifies high-perfor
 
 
 𝗣𝗮𝗴𝗲 𝟰: 𝗧𝗿𝗲𝗻𝗱 & 𝗣𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+
 Focuses on performance over time and product-level efficiency:
   • Monthly revenue trends
   • Profit margin patterns
   • High-volume/low-margin vs low-volume/high-margin product analysis (scatter insight)
+
 Strategic Insights:
   • Identification of seasonal sales patterns
   • Margin optimization opportunities
@@ -114,6 +117,7 @@ Open to feedback and insights from the community!
 Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
 
 # Excel Project
+## Dynamic Sales Report
 This project demonstrates an end-to-end Business Intelligence solution built entirely in Microsoft Excel, designed for a retail outlet operating across multiple U.S. states and product categories.
 
 I stated by collecting and cleaning the messy data with Power Query by applying the golden rules of data, The spreedsheet allows stakeholders to filter data by State and Category using validated dropdown menus, and instantly surface:
@@ -127,7 +131,7 @@ Follow the link to download the file: https://github.com/Ayooluwa44/Data-Analysi
 All metrics update dynamically without any manual recalculation.
 <img width="1365" height="667" alt="Screenshot 2026-05-10 092913" src="https://github.com/user-attachments/assets/4ac0e238-57a2-414b-bebb-ca9c6123fdf0" />
 
-#$# Business Problem
+### Business Problem
 Retail operations managers need fast, accurate summaries of performance across regions and product lines, without digging through thousands of rows of transaction data.
 This dashboard answers the question: "How is our Furniture/Technology/Office Supplies division performing in Texas right now, and who is leading it?"
 
