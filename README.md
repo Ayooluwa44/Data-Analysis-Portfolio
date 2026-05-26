@@ -20,6 +20,34 @@ This is a repository to showcase skills, share projects and track my progress in
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f3d6c61ac6bdf059b9ea8c143c4947630bb03afb/Sales%20Retail%20Outlet.pbix
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/fe78bddd95be5afb8fc91aef4bd0dd8c2db673e0/DataDNA%20Dataset%20Challenge%20-%20Animal%20Shelter%20Operations%20-%20December%202025.pbix
 
+
+- SQL
+  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
+  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/3dae322a2713709be822a497bdaeed2b7732ce76/SQL%20Bella%20Vita%20Pizza.sql
+
+# POWER BI - PROJECT
+The project focused on analyzing retail sales performance, translating raw data into actionable business insights for decision-making.
+Key dashboard areas included:
+  🔹 Executive KPIs — Sales, Profit, Orders, and Trends
+<img width="957" height="596" alt="Screenshot 2026-05-08 215303" src="https://github.com/user-attachments/assets/edc37e40-2fcf-42f6-a37c-827d34738ca0" />
+
+  🔹 Profitability Analysis — Margin insights across sub-categories, segments, and shipping modes
+<img width="958" height="597" alt="Screenshot 2026-05-08 215349" src="https://github.com/user-attachments/assets/aa6012be-cd7d-4873-ae0e-0835c10bced5" />
+
+  🔹 Customer Analytics — Repeat customer behavior, segmentation, and purchasing patterns
+<img width="956" height="595" alt="Screenshot 2026-05-08 215444" src="https://github.com/user-attachments/assets/3956e166-1c30-4e89-871f-455cb32a7ca8" />
+
+  🔹 Regional Performance — State and city-level performance with regional manager comparisons
+<img width="954" height="592" alt="Screenshot 2026-05-08 215609" src="https://github.com/user-attachments/assets/1d1d7695-2fc6-4512-ab12-93f50d68ef3d" />
+
+Key highlights from the project:
+  ✅ Built a structured data model supporting multi-page reporting
+  ✅ Developed RFM-ready customer metrics (First Order, Last Order, Recency)
+  ✅ Analyzed discount impact on profitability at customer level
+  ✅ Designed dashboards to support business decision-making, not just reporting
+
+Tools used: Power BI | DAX | Data Modeling | Excel
+
 ## Pharmacy Sales Profitability Analysis 
 
 This interactive dashboard explores pharmacy sales performance across products, locations, and promotional activities to uncover revenue drivers, margin trends, and growth opportunities. The goal is to highlight key performance patterns, identify profitability gaps, and support smarter commercial and operational decisions.
@@ -84,32 +112,6 @@ This dashboard provides a 360° view of pharmacy operations by integrating finan
 Open to feedback and insights from the community!
 
 Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
-
-- SQL
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
-
-# POWER BI - PROJECT
-The project focused on analyzing retail sales performance, translating raw data into actionable business insights for decision-making.
-Key dashboard areas included:
-  🔹 Executive KPIs — Sales, Profit, Orders, and Trends
-<img width="957" height="596" alt="Screenshot 2026-05-08 215303" src="https://github.com/user-attachments/assets/edc37e40-2fcf-42f6-a37c-827d34738ca0" />
-
-  🔹 Profitability Analysis — Margin insights across sub-categories, segments, and shipping modes
-<img width="958" height="597" alt="Screenshot 2026-05-08 215349" src="https://github.com/user-attachments/assets/aa6012be-cd7d-4873-ae0e-0835c10bced5" />
-
-  🔹 Customer Analytics — Repeat customer behavior, segmentation, and purchasing patterns
-<img width="956" height="595" alt="Screenshot 2026-05-08 215444" src="https://github.com/user-attachments/assets/3956e166-1c30-4e89-871f-455cb32a7ca8" />
-
-  🔹 Regional Performance — State and city-level performance with regional manager comparisons
-<img width="954" height="592" alt="Screenshot 2026-05-08 215609" src="https://github.com/user-attachments/assets/1d1d7695-2fc6-4512-ab12-93f50d68ef3d" />
-
-Key highlights from the project:
-  ✅ Built a structured data model supporting multi-page reporting
-  ✅ Developed RFM-ready customer metrics (First Order, Last Order, Recency)
-  ✅ Analyzed discount impact on profitability at customer level
-  ✅ Designed dashboards to support business decision-making, not just reporting
-
-Tools used: Power BI | DAX | Data Modeling | Excel
 
 # Excel Project
 This project demonstrates an end-to-end Business Intelligence solution built entirely in Microsoft Excel, designed for a retail outlet operating across multiple U.S. states and product categories.
