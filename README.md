@@ -20,6 +20,69 @@ This is a repository to showcase skills, share projects and track my progress in
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f3d6c61ac6bdf059b9ea8c143c4947630bb03afb/Sales%20Retail%20Outlet.pbix
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/fe78bddd95be5afb8fc91aef4bd0dd8c2db673e0/DataDNA%20Dataset%20Challenge%20-%20Animal%20Shelter%20Operations%20-%20December%202025.pbix
 
+## Pharmacy
+𝗣𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲
+This interactive dashboard explores pharmacy sales performance across products, locations, and promotional activities to uncover revenue drivers, margin trends, and growth opportunities. The goal is to highlight key performance patterns, identify profitability gaps, and support smarter commercial and operational decisions.
+
+𝗣𝗮𝗴𝗲 𝟭: 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
+Provides a high-level snapshot of overall performance, including:
+• Total Revenue: £8.63M
+• Total Cost: £6.21M
+• Total Margin: £2.42M
+• Units Sold: 445K
+• Profit Margin: 28.04%
+Key Highlights:
+• Category performance (Prescription leading revenue and margin)
+• Generic vs Non-Generic contribution
+• Top-performing brands and pack sizes
+• Monthly revenue trends
+This page sets the context by showing where revenue is generated and how profitability is distributed.
+
+<img width="835" height="532" alt="Screenshot 2026-02-13 184535" src="https://github.com/user-attachments/assets/c34f4c58-ca99-4369-8ecb-e6a2087b78a5" />
+
+
+𝗣𝗮𝗴𝗲 𝟮: 𝗣𝗵𝗮𝗿𝗺𝗮𝗰𝘆 & 𝗦𝗮𝗹𝗲𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
+Dives deeper into operational performance by analyzing:
+• Sales by Pharmacy Type (Urban, Suburban, Rural)
+• Store size band contribution
+• Promotion impact on sales volume
+• Pharmacy-level performance breakdown
+Key Business Questions Answered:
+• Which pharmacy segments drive the most revenue?
+• How do promotions influence volume?
+• Where are the strongest and weakest-performing locations?
+
+<img width="840" height="531" alt="Screenshot 2026-02-13 184619" src="https://github.com/user-attachments/assets/3ba078d9-41d5-4253-846c-20439d388a0b" />
+
+
+𝗣𝗮𝗴𝗲 𝟯: 𝗚𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗰 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
+Explores performance across regions, countries, and cities through:
+• Revenue by country
+• Top regions
+• Top cities
+• Interactive map visualization (Latitude & Longitude analysis)
+This page highlights geographic revenue concentration and identifies high-performing markets that can be scaled or optimized.
+
+<img width="836" height="529" alt="Screenshot 2026-02-13 184713" src="https://github.com/user-attachments/assets/c053621b-33d3-486a-8014-db3c7581f7be" />
+
+
+𝗣𝗮𝗴𝗲 𝟰: 𝗧𝗿𝗲𝗻𝗱 & 𝗣𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+Focuses on performance over time and product-level efficiency:
+• Monthly revenue trends
+• Profit margin patterns
+• High-volume/low-margin vs low-volume/high-margin product analysis (scatter insight)
+Strategic Insights:
+• Identification of seasonal sales patterns
+• Margin optimization opportunities
+• Products requiring pricing or cost review
+
+<img width="839" height="531" alt="Screenshot 2026-02-13 184807" src="https://github.com/user-attachments/assets/c8ebcc63-02f9-4b32-b876-d020d5c62524" />
+
+
+This dashboard provides a 360° view of pharmacy operations by integrating financial metrics, product insights, geographic trends, and promotional impact to support data-driven decision-making.
+Open to feedback and insights from the community!
+
+Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
 
 - SQL
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
