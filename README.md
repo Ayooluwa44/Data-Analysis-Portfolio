@@ -35,15 +35,16 @@ Key dashboard areas included:
   🔹 Profitability Analysis — Margin insights across sub-categories, segments, and shipping modes
 <img width="958" height="597" alt="Screenshot 2026-05-08 215349" src="https://github.com/user-attachments/assets/aa6012be-cd7d-4873-ae0e-0835c10bced5" />
 
-  🔹 Customer Analytics — Repeat customer behavior, segmentation, and purchasing patterns
+  🔹 Customer Analytics — Repeat customer behavior, segmentation, and purchasing patterns 
+  
 <img width="956" height="595" alt="Screenshot 2026-05-08 215444" src="https://github.com/user-attachments/assets/3956e166-1c30-4e89-871f-455cb32a7ca8" />
 
-  🔹 Regional Performance — State and city-level performance with regional manager comparisons
+  🔹 Regional Performance — State and city-level performance with regional manager comparisons <br>
 <img width="954" height="592" alt="Screenshot 2026-05-08 215609" src="https://github.com/user-attachments/assets/1d1d7695-2fc6-4512-ab12-93f50d68ef3d" />
 
 Key highlights from the project: <br>
   ✅ Built a structured data model supporting multi-page reporting <br>
-  ✅ Developed RFM-ready customer metrics (First Order, Last Order, Recency) ,br>
+  ✅ Developed RFM-ready customer metrics (First Order, Last Order, Recency) <br>
   ✅ Analyzed discount impact on profitability at customer level <br>
   ✅ Designed dashboards to support business decision-making, not just reporting <br>
 
@@ -62,10 +63,10 @@ Provides a high-level snapshot of overall performance, including: <br>
   - Units Sold: 445K
   - Profit Margin: 28.04% <br>
 Key Highlights: <br>
-  • Category performance (Prescription leading revenue and margin)
-  • Generic vs Non-Generic contribution
-  • Top-performing brands and pack sizes
-  • Monthly revenue trends
+  - Category performance (Prescription leading revenue and margin)
+  - Generic vs Non-Generic contribution
+  - Top-performing brands and pack sizes
+  - Monthly revenue trends <br>
 This page sets the context by showing where revenue is generated and how profitability is distributed.
 
 <img width="835" height="532" alt="Screenshot 2026-02-13 184535" src="https://github.com/user-attachments/assets/c34f4c58-ca99-4369-8ecb-e6a2087b78a5" />
