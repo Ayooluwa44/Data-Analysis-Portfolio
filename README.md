@@ -12,19 +12,19 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Content
 - Excel/Google Sheet
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/d76b75626b66fefb8bf6b8b087ec19584714f97b/Dynamic%20Retail%20Oulet.xlsx
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/ea10d8817f4b1e2852baf642fd05b276e95a3df9/Lookups%2C%20Functions%2C%20Dashboarding.xlsx
+  - Dynamic Retail Outlet https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/d76b75626b66fefb8bf6b8b087ec19584714f97b/Dynamic%20Retail%20Oulet.xlsx
+  - Lookups, Functions and Dashboarding https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/ea10d8817f4b1e2852baf642fd05b276e95a3df9/Lookups%2C%20Functions%2C%20Dashboarding.xlsx
 
 - Power BI
-  - Sales retail outlet https://drive.google.com/file/d/1BU41wOtdHT_6daZqyea0T6kFXbQnvHrz/view?usp=sharing
+  - Sales Retail Outlet https://drive.google.com/file/d/1BU41wOtdHT_6daZqyea0T6kFXbQnvHrz/view?usp=sharing
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f3d6c61ac6bdf059b9ea8c143c4947630bb03afb/Sales%20Retail%20Outlet.pbix
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/fe78bddd95be5afb8fc91aef4bd0dd8c2db673e0/DataDNA%20Dataset%20Challenge%20-%20Animal%20Shelter%20Operations%20-%20December%202025.pbix
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/6a72c3ae83165193b82328992c3198314469d106/Pharmacy%20Sales%20%26%20Profitability%20Analytics%20Data%20Challenge%20(1).pbix
+  - Animal Shelter Operation https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/fe78bddd95be5afb8fc91aef4bd0dd8c2db673e0/DataDNA%20Dataset%20Challenge%20-%20Animal%20Shelter%20Operations%20-%20December%202025.pbix
+  - Pharmacy Profitability Analytics https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/6a72c3ae83165193b82328992c3198314469d106/Pharmacy%20Sales%20%26%20Profitability%20Analytics%20Data%20Challenge%20(1).pbix
 
 - SQL
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/3dae322a2713709be822a497bdaeed2b7732ce76/SQL%20Bella%20Vita%20Pizza.sql
-  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f0061891741aa8e5d80f92143464de1fcdb6ec8b/SQL%20Window%20Functions.sql
+  - Sales Retail Outlet https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
+  - Bella Vita Pizza https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/3dae322a2713709be822a497bdaeed2b7732ce76/SQL%20Bella%20Vita%20Pizza.sql
+  - Window Functions https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f0061891741aa8e5d80f92143464de1fcdb6ec8b/SQL%20Window%20Functions.sql
 
 # POWER BI - PROJECT
 ## Sales Report
