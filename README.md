@@ -118,8 +118,8 @@ Strategic Insights:
 <img width="839" height="531" alt="Screenshot 2026-02-13 184807" src="https://github.com/user-attachments/assets/c8ebcc63-02f9-4b32-b876-d020d5c62524" />
 
 
-This dashboard provides a 360° view of pharmacy operations by integrating financial metrics, product insights, geographic trends, and promotional impact to support data-driven decision-making.
-Open to feedback and insights from the community!
+This dashboard provides a 360° view of pharmacy operations by integrating financial metrics, product insights, geographic trends, and promotional impact to support data-driven decision-making. <br>
+
 Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
 
 # Excel Project
