@@ -30,16 +30,19 @@ This is a repository to showcase skills, share projects and track my progress in
 The project focused on analyzing retail sales performance, translating raw data into actionable business insights for decision-making.
 Key dashboard areas included:
   🔹 Executive KPIs — Sales, Profit, Orders, and Trends
+  
 <img width="957" height="596" alt="Screenshot 2026-05-08 215303" src="https://github.com/user-attachments/assets/edc37e40-2fcf-42f6-a37c-827d34738ca0" />
 
   🔹 Profitability Analysis — Margin insights across sub-categories, segments, and shipping modes
+  
 <img width="958" height="597" alt="Screenshot 2026-05-08 215349" src="https://github.com/user-attachments/assets/aa6012be-cd7d-4873-ae0e-0835c10bced5" />
 
   🔹 Customer Analytics — Repeat customer behavior, segmentation, and purchasing patterns 
   
 <img width="956" height="595" alt="Screenshot 2026-05-08 215444" src="https://github.com/user-attachments/assets/3956e166-1c30-4e89-871f-455cb32a7ca8" />
 
-  🔹 Regional Performance — State and city-level performance with regional manager comparisons <br>
+  🔹 Regional Performance — State and city-level performance with regional manager comparisons 
+  
 <img width="954" height="592" alt="Screenshot 2026-05-08 215609" src="https://github.com/user-attachments/assets/1d1d7695-2fc6-4512-ab12-93f50d68ef3d" />
 
 Key highlights from the project: <br>
@@ -62,7 +65,7 @@ Provides a high-level snapshot of overall performance, including: <br>
   - Total Margin: £2.42M
   - Units Sold: 445K
   - Profit Margin: 28.04% <br>
-Key Highlights: <br>
+**Key Highlights:** <br>
   - Category performance (Prescription leading revenue and margin)
   - Generic vs Non-Generic contribution
   - Top-performing brands and pack sizes
@@ -72,26 +75,27 @@ This page sets the context by showing where revenue is generated and how profita
 <img width="835" height="532" alt="Screenshot 2026-02-13 184535" src="https://github.com/user-attachments/assets/c34f4c58-ca99-4369-8ecb-e6a2087b78a5" />
 
 
-𝗣𝗮𝗴𝗲 𝟮: 𝗣𝗵𝗮𝗿𝗺𝗮𝗰𝘆 & 𝗦𝗮𝗹𝗲𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
-Dives deeper into operational performance by analyzing:
-  • Sales by Pharmacy Type (Urban, Suburban, Rural)
-  • Store size band contribution
-  • Promotion impact on sales volume
-  • Pharmacy-level performance breakdown
-Key Business Questions Answered:
-  • Which pharmacy segments drive the most revenue?
-  • How do promotions influence volume?
-  • Where are the strongest and weakest-performing locations?
+𝗣𝗮𝗴𝗲 𝟮: 𝗣𝗵𝗮𝗿𝗺𝗮𝗰𝘆 & 𝗦𝗮𝗹𝗲𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 <br>
+Dives deeper into operational performance by analyzing: <br>
+  - Sales by Pharmacy Type (Urban, Suburban, Rural)
+  - Store size band contribution
+  - Promotion impact on sales volume
+  - Pharmacy-level performance breakdown
+    
+Key Business Questions Answered: <br>
+  - Which pharmacy segments drive the most revenue?
+  - How do promotions influence volume?
+  - Where are the strongest and weakest-performing locations?
 
 <img width="840" height="531" alt="Screenshot 2026-02-13 184619" src="https://github.com/user-attachments/assets/3ba078d9-41d5-4253-846c-20439d388a0b" />
 
 
 𝗣𝗮𝗴𝗲 𝟯: 𝗚𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗰 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
-Explores performance across regions, countries, and cities through:
-  • Revenue by country
-  • Top regions
-  • Top cities
-  • Interactive map visualization (Latitude & Longitude analysis)
+Explores performance across regions, countries, and cities through: <br>
+  - Revenue by country
+  - Top regions
+  - Top cities
+  - Interactive map visualization (Latitude & Longitude analysis)
 This page highlights geographic revenue concentration and identifies high-performing markets that can be scaled or optimized.
 
 <img width="836" height="529" alt="Screenshot 2026-02-13 184713" src="https://github.com/user-attachments/assets/c053621b-33d3-486a-8014-db3c7581f7be" />
@@ -99,15 +103,15 @@ This page highlights geographic revenue concentration and identifies high-perfor
 
 𝗣𝗮𝗴𝗲 𝟰: 𝗧𝗿𝗲𝗻𝗱 & 𝗣𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 
-Focuses on performance over time and product-level efficiency:
-  • Monthly revenue trends
-  • Profit margin patterns
-  • High-volume/low-margin vs low-volume/high-margin product analysis (scatter insight)
+Focuses on performance over time and product-level efficiency:<br>
+  - Monthly revenue trends
+  - Profit margin patterns
+  - High-volume/low-margin vs low-volume/high-margin product analysis (scatter insight)
 
 Strategic Insights:
-  • Identification of seasonal sales patterns
-  • Margin optimization opportunities
-  • Products requiring pricing or cost review
+  - Identification of seasonal sales patterns
+  - Margin optimization opportunities
+  - Products requiring pricing or cost review
 
 <img width="839" height="531" alt="Screenshot 2026-02-13 184807" src="https://github.com/user-attachments/assets/c8ebcc63-02f9-4b32-b876-d020d5c62524" />
 
@@ -121,20 +125,20 @@ Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
 ## Dynamic Sales Report
 This project demonstrates an end-to-end Business Intelligence solution built entirely in Microsoft Excel, designed for a retail outlet operating across multiple U.S. states and product categories.
 
-I stated by collecting and cleaning the messy data with Power Query by applying the golden rules of data, The spreedsheet allows stakeholders to filter data by State and Category using validated dropdown menus, and instantly surface:
-  ✅ The Top Region Manager for that selection
-  💰 Total Sales generated
-  📦 Total Quantity sold
-  📈 Total Profit earned
-  🧾 Total Orders placed
+I stated by collecting and cleaning the messy data with Power Query by applying the golden rules of data, The spreedsheet allows stakeholders to filter data by State and Category using validated dropdown menus, and instantly surface: <br>
+  ✅ The Top Region Manager for that selection <br>
+  💰 Total Sales generated <br>
+  📦 Total Quantity sold <br>
+  📈 Total Profit earned <br>
+  🧾 Total Orders placed <br>
 Follow the link to download the file: https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f9fe2832195e98811238c045b9b3edfbfbcf29f9/Dynamic%20Retail%20Oulet.xlsx
 
 All metrics update dynamically without any manual recalculation.
 <img width="1365" height="667" alt="Screenshot 2026-05-10 092913" src="https://github.com/user-attachments/assets/4ac0e238-57a2-414b-bebb-ca9c6123fdf0" />
 
-### Business Problem
-Retail operations managers need fast, accurate summaries of performance across regions and product lines, without digging through thousands of rows of transaction data.
-This dashboard answers the question: "How is our Furniture/Technology/Office Supplies division performing in Texas right now, and who is leading it?"
+**Business Problem** <br>
+Retail operations managers need fast, accurate summaries of performance across regions and product lines, without digging through thousands of rows of transaction data. <br>
+This dashboard answers the question: "How is our Furniture/Technology/Office Supplies division performing in Texas right now, and who is leading it?" <br>
 
-### Tools & Techniques Used
-Microsoft Excel | Power Query
+**Tools & Techniques Used** <br>
+Microsoft Excel | Power Query <br>
