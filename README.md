@@ -14,6 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - Excel/Google Sheet
   - Dynamic Retail Outlet https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/d76b75626b66fefb8bf6b8b087ec19584714f97b/Dynamic%20Retail%20Oulet.xlsx
   - Lookups, Functions and Dashboarding https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/ea10d8817f4b1e2852baf642fd05b276e95a3df9/Lookups%2C%20Functions%2C%20Dashboarding.xlsx
+  - https://github.com/Ayooluwa44/sales_retail_dashboard/blob/d64e2298a34906435f55b2c82d8159c10ac74b4d/README.md
 
 - Power BI
   - Sales Retail Outlet https://drive.google.com/file/d/1BU41wOtdHT_6daZqyea0T6kFXbQnvHrz/view?usp=sharing
@@ -121,8 +122,32 @@ This dashboard provides a 360° view of pharmacy operations by integrating finan
 Open to feedback and insights from the community!
 
 Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
+---
 
 # Excel Project
+---
+## Sales Performance Dashboard
+This project analyzes retail sales data spanning **2013–2015**, transforming raw transactional records into an interactive **Sales Performance Dashboard**. All metrics, aggregations, and lookups were computed using Excel functions and named ranges only.
+ 
+The dashboard provides decision-makers with a clear, visual snapshot of sales performance across regions, product categories, shipping modes, customers, and time periods.
+
+---
+<img width="958" height="403" alt="Screenshot 2026-05-25 174111" src="https://github.com/user-attachments/assets/ff9f7293-fca4-4df6-a0dc-acac25596c2e" />
+
+<img width="1366" height="687" alt="Screenshot 2026-03-17 141637" src="https://github.com/user-attachments/assets/53e530a2-b853-4720-8db2-a39451834209" />
+
+**Excel Functions & Formulas Used**
+All calculations were performed **without Pivot Tables**.<br>
+
+**Skills Demonstrated**
+- Advanced Excel formula design (INDEX/MATCH, SUMIF, LARGE, IFERROR)
+- Data cleaning and transformation without Power Query or Pivot Tables
+- Dashboard design and data visualization in Excel
+- Business analysis: insight extraction, problem framing, and recommendation development
+- KPI definition and metric structuring
+
+
+---
 ## Dynamic Sales Report
 This project demonstrates an end-to-end Business Intelligence solution built entirely in Microsoft Excel, designed for a retail outlet operating across multiple U.S. states and product categories.
 
