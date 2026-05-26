@@ -41,11 +41,11 @@ Key dashboard areas included:
   🔹 Regional Performance — State and city-level performance with regional manager comparisons
 <img width="954" height="592" alt="Screenshot 2026-05-08 215609" src="https://github.com/user-attachments/assets/1d1d7695-2fc6-4512-ab12-93f50d68ef3d" />
 
-Key highlights from the project:
-  ✅ Built a structured data model supporting multi-page reporting
-  ✅ Developed RFM-ready customer metrics (First Order, Last Order, Recency)
-  ✅ Analyzed discount impact on profitability at customer level
-  ✅ Designed dashboards to support business decision-making, not just reporting
+Key highlights from the project: <br>
+  ✅ Built a structured data model supporting multi-page reporting <br>
+  ✅ Developed RFM-ready customer metrics (First Order, Last Order, Recency) ,br>
+  ✅ Analyzed discount impact on profitability at customer level <br>
+  ✅ Designed dashboards to support business decision-making, not just reporting <br>
 
 Tools used: Power BI | DAX | Data Modeling | Excel
 
@@ -55,13 +55,13 @@ This interactive dashboard explores pharmacy sales performance across products, 
 https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/9dcd63364f8e52387e5a941ac546d81378481053/Pharmacy%20Sales%20%26%20Profitability%20Analytics%20Data%20Challenge%20(1).pbix
 
 𝗣𝗮𝗴𝗲 𝟭: 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
-Provides a high-level snapshot of overall performance, including:
-  • Total Revenue: £8.63M
-  • Total Cost: £6.21M
-  • Total Margin: £2.42M
-  • Units Sold: 445K
-  • Profit Margin: 28.04%
-Key Highlights:
+Provides a high-level snapshot of overall performance, including: <br>
+  - Total Revenue: £8.63M
+  - Total Cost: £6.21M
+  - Total Margin: £2.42M
+  - Units Sold: 445K
+  - Profit Margin: 28.04% <br>
+Key Highlights: <br>
   • Category performance (Prescription leading revenue and margin)
   • Generic vs Non-Generic contribution
   • Top-performing brands and pack sizes
