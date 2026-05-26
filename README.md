@@ -125,8 +125,8 @@ Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
 # Excel Project
 ---
 ## Sales Performance Dashboard
-This project analyzes retail sales data spanning **2013–2015**, transforming raw transactional records into an interactive **Sales Performance Dashboard**. All metrics, aggregations, and lookups were computed using Excel functions and named ranges only.
- 
+This project analyzes retail sales data spanning **2013–2015**, transforming raw transactional records into an interactive **Sales Performance Dashboard**. All metrics, aggregations, and lookups were computed using Excel functions and named ranges only. <br>
+https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/a086eb756301ce7b9441dc18d3873f18457030b8/Lookups%2C%20Functions%2C%20Dashboarding.xlsx <br>
 The dashboard provides decision-makers with a clear, visual snapshot of sales performance across regions, product categories, shipping modes, customers, and time periods.
 
 ---
