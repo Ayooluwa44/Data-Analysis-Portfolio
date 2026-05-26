@@ -24,6 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - SQL
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/c2ae23d5e92b7f9cf0299e0d312ee8f85e784e82/SQL%20Project.sql
   - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/3dae322a2713709be822a497bdaeed2b7732ce76/SQL%20Bella%20Vita%20Pizza.sql
+  - https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/f0061891741aa8e5d80f92143464de1fcdb6ec8b/SQL%20Window%20Functions.sql
 
 # POWER BI - PROJECT
 ## Sales Report
