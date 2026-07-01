@@ -126,11 +126,11 @@ Here is the link to interactive dashboard: https://lnkd.in/eWRExvQY
 
 Power BI dashboard analyzing borrower risk across the USA, UK, and Canada using the Onyx Data September 2025 Monthly Dataset Challenge dataset.
 
-## Project Overview
+# Project Overview
 
 This project explores credit risk patterns in a 32,581 row lending dataset covering borrower demographics, loan details, and risk indicators. The goal was to build a decision ready dashboard that a credit risk team could use to identify high risk segments, monitor portfolio health, and support lending decisions.
 
-## Business Problem
+# Business Problem
 
 Nova Bank needed a clear view of where default risk was concentrated across its loan portfolio, which borrower segments carried the highest risk, and how risk varied by country. The dashboard answers three core questions: <br>
 
@@ -138,25 +138,14 @@ Nova Bank needed a clear view of where default risk was concentrated across its 
 - Which borrower segments (income band, loan purpose, home ownership, employment length) show elevated risk?
 - How does risk differ across the USA, UK, and Canada?
 
-## Data Model
 
-The report is built on a star schema with a central loan facts table connected to dimension tables for borrower demographics, loan details, and date. Key transformations were handled in Power Query, including data type corrections, column splitting, and creation of the risk tier bins.
-
-## Key DAX Measures <br>
-
-- Default Rate
-- Portfolio at Risk
-- Recidivism Rate
-- Composite Risk Score
-- Risk Tier Classification (using COUNTROWS and FILTER)
-
-## Tools Used <br>
+#Tools Used <br>
 
 - Power BI (data modeling, DAX, report design)
 - Power Query (data cleaning and transformation)
 - DAX (measure development)
 
-## Dashboard Preview <br>
+# Dashboard Preview <br>
 
 <img width="918" height="512" alt="Screenshot 2026-07-01 125336" src="https://github.com/user-attachments/assets/7f3279bc-2778-4abc-af8f-e08c0d63931b" />
 
