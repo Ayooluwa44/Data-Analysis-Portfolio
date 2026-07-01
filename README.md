@@ -155,10 +155,10 @@ Dashboard Preview <br>
 
 <img width="922" height="510" alt="Screenshot 2026-07-01 125647" src="https://github.com/user-attachments/assets/41c9aa67-14fd-4556-8a49-4a1c84ffa0a1" />
 
-Insights
+### Insights
 <img width="839" height="472" alt="Screenshot 2026-07-01 130208" src="https://github.com/user-attachments/assets/c6fe2e9e-817e-415c-9d57-0c83a09884a4" />
 
-Recommendation
+### Recommendation
 <img width="838" height="472" alt="Screenshot 2026-07-01 130256" src="https://github.com/user-attachments/assets/d8db2514-42a2-4cc2-982c-6e01575eb38e" />
 
 # Excel Project
