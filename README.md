@@ -163,7 +163,7 @@ Dashboard Preview <br>
 ### Recommendation
 <img width="838" height="472" alt="Screenshot 2026-07-01 130256" src="https://github.com/user-attachments/assets/d8db2514-42a2-4cc2-982c-6e01575eb38e" />
 
-Report Link: POWER BI PROJECTS/Credit Risk Analysis.pbix
+Report Link: [POWER BI PROJECTS/Credit Risk Analysis.pbix](https://github.com/Ayooluwa44/Data-Analysis-Portfolio/blob/d4c52f385b6ae7b8d7551f3690643664aacd9410/POWER%20BI%20PROJECTS/Credit%20Risk%20Analysis.pbix)
 
 
 # Excel Project
