@@ -1,5 +1,5 @@
 # Agbeyo Ayobami Abiodun
-## About
+## Overview
 I am Ayobami Agbeyo, a graduate of Federal University of Technology Akure (FUTA). I am a results-driven Data Analyst with demonstrated experience in converting complex, 
 
 multi-source datasets into actionable business intelligence that drives measurable operational improvements. I am proficient in SQL (query writing, optimization, and joins), Power BI (advanced DAX, data modelling, and interactive dashboards), Power Query (ETL, data transformation, and automation), and Microsoft Excel.
@@ -162,6 +162,9 @@ Dashboard Preview <br>
 
 ### Recommendation
 <img width="838" height="472" alt="Screenshot 2026-07-01 130256" src="https://github.com/user-attachments/assets/d8db2514-42a2-4cc2-982c-6e01575eb38e" />
+
+Report Link: 
+
 
 # Excel Project
 ---
